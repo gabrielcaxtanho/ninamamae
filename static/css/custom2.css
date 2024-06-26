@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+TAS:wght@100..400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap'); *{
+    font-size: 10px;
+    text-decoration: none;
+    font-family: 'FontAwesome';
+    color: white;
+    
+    }
+    
+    
+body{
+    background-color: hsl(248, 87%, 12%);
+    
+    }
+
+    
+@media screen and (max-width: 10000px) {
+
+
+
+
+    
+#corpo{
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: space-around;
+    }
+#corpo2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 01%;
+        margin-right: 01%;
+        border-radius: 10px;
+        background-color: #e4d1cb;
+        align-items: center;
+    }
+
+        
+#logo-mobile{
+    padding:0px;
+    
+    }
+.logo1-mobile{
+        margin: -4%;
+        padding:0px;
+        align-items: center;
+        display: flex;
+        justify-content: flex-start;
+        flex-wrap: nowrap;
+        background-color: 0px 1px 10px 2px rgb(30 200 255 / 65%);
+        border-radius: 10px;
+    }
+            
+
+    
+
+   
+   
+
+#contate h1{
+        margin: 5%;
+    }
+    
+#pai-divs{
+    display: flex;
+    width: inherit;
+    padding: 5%;
+    border-radius: 10px;
+    justify-content:space-around;
+    flex-direction:row ;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+}
+
+#filho{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    padding: 5%;
+    text-align: center;
+
+    
+
+
+}
+
+#filho1{
+    width: 40%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+#filho2{
+    border-radius: 10px;
+    padding: 1%;
+    margin: 13%;
+    border-radius: 10px;
+    text-align: center;
+    padding-right: 15%;
+    padding-left: 15%;
+    background-color: #e4d1cb;
+    box-shadow: 0px 1px 10px 2px rgb(30 200 255 / 65%);
+
+}
+
+}
+
+
+.central2{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+
+.blocos{
+    text-align: center;
+    padding: 10%;
+    border-radius: 10PX;
+    box-shadow:0px 1px 10px 2px rgb(30 200 255 / 65%);
+    margin: 10%;
+    margin-top: 1%;
+}
+
+.blocos4{
+    text-align: center;
+    padding: 10%;
+    border-radius: 10PX;
+}    
+
+.blocos3{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.tatto{
+    width: 50px;
+}
+
+.texto__footer{
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+
+}
